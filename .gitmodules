@@ -1,0 +1,12 @@
+[submodule "ant"]
+	path = ant
+	url = ./ant
+[submodule "gradle"]
+	path = gradle
+	url = ./gradle
+[submodule "make"]
+	path = make
+	url = ./make
+[submodule "mvn"]
+	path = mvn
+	url = ./mvn
